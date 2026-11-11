@@ -1,0 +1,9 @@
+{
+  "values": [
+    "demo:setup",
+    {
+      "id": "demo:optional",
+      "required": false
+    }
+  ]
+}
